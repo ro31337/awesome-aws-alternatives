@@ -8,7 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### EC2 - Amazon Virtual Servers
 
-* [Dedicated and Virtual servers](https://hetzner.de)
+* [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
 
 ## Web Developer Services
 
