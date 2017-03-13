@@ -10,8 +10,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
 
+### S3 - Unlimited Storage
+
+* [Storj - Blockchain based, distributed, encrypted storage](https://storj.io/)
+
 ## Web Developer Services
 
-### Route53 - DNS and Domans
+### Route53 - DNS and Domains
 
 * [Moniker](https://www.moniker.com/) - Domain Management & Domain Services
