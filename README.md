@@ -19,3 +19,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Route53 - DNS and Domains
 
 * [Moniker](https://www.moniker.com/) - Domain Management & Domain Services
+
+## Enterprise / Corporate Services
+
+### WorkMail
+
+* [Zoho Mail](https://www.zoho.com/mail/) - Webmail for your domain, free up to 25 users
