@@ -4,6 +4,8 @@ A curated list of awesome AWS alternatives: open source repos, libraries, tools,
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+**Contribute?** Check [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) for better section name.
+
 ## Run an App Services
 
 ### EC2 - Amazon Virtual Servers
