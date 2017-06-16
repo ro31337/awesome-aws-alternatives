@@ -11,16 +11,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### EC2 - Amazon Virtual Servers
 
 * [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
+* [DigitalOcean - Virtual Servers, Block storage, Load balancing and Firewalls](https://digitalocean.com)
 
 ### S3 - Unlimited Storage
 
 * [Storj - Blockchain based, distributed, encrypted storage](https://storj.io/)
+* [Backblaze B2 storage - Cheapest block storage](https://www.backblaze.com/b2/cloud-storage.html)
 
 ## Web Developer Services
+
+### CodeDeploy - Deployment and testing
+
+* [CodeShip](https://codeship.com) - Automated unit testing and deployment
 
 ### Route53 - DNS and Domains
 
 * [Moniker](https://www.moniker.com/) - Domain Management & Domain Services
+
+
+### SES Simple Email Service 
+
+* [Mailgun](https://www.mailgun.com/) - E-mail relay and delivery/open tracking
+* [Postmark](https://postmarkapp.com/) - E-mail relay and delivery/open tracking
+
 
 ## Enterprise / Corporate Services
 
