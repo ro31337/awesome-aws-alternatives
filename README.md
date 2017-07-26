@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
 * [DigitalOcean - Virtual Servers, Block storage, Load balancing and Firewalls](https://digitalocean.com)
+* [Contabo - Servers, VPS](https://contabo.com)
 
 ### S3 - Unlimited Storage
 
