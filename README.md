@@ -40,4 +40,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### WorkMail
 
+* [Yandex.Connect](https://connect.yandex.com) - E-mail and online storage for your domain
 * [Zoho Mail](https://www.zoho.com/mail/) - Webmail for your domain, free up to 25 users
