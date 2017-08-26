@@ -16,7 +16,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### S3 - Unlimited Storage
 
-* [Storj - Blockchain based, distributed, encrypted storage](https://storj.io/)
 * [Backblaze B2 storage - Cheapest block storage](https://www.backblaze.com/b2/cloud-storage.html)
 
 ## Web Developer Services
