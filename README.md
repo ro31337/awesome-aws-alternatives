@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### S3 - Unlimited Storage
 
 * [Backblaze B2 storage - Cheapest block storage](https://www.backblaze.com/b2/cloud-storage.html)
+* [Scalable Object Storage on DigitalOcean](https://blog.digitalocean.com/introducing-spaces-object-storage/) with [AWS S3 compatibility](https://developers.digitalocean.com/documentation/spaces/#introduction)
 
 ## Web Developer Services
 
