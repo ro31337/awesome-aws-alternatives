@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
 * [DigitalOcean - Virtual Servers, Block storage, Load balancing and Firewalls](https://digitalocean.com)
 * [Contabo - Servers, VPS](https://contabo.com) (found [here](http://www.yegor256.com/2017/07/25/my-favorite-websites.html))
+* [VPS: 1 euro/month for 1GB RAM, 20GB storage, 2TB data transfer](https://www.arubacloud.com/vps/virtual-private-server-range.aspx)
 
 ### S3 - Unlimited Storage
 
