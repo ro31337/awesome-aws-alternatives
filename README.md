@@ -44,3 +44,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Yandex.Connect](https://connect.yandex.com) - E-mail and online storage for your domain
 * [Zoho Mail](https://www.zoho.com/mail/) - Webmail for your domain, free up to 25 users
+
+## AWS Management Services
+
+### CloudWatch - statistics storage
+
+* [Graphite](https://graphiteapp.org) - Used in Uber and [Etsy](http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/).
