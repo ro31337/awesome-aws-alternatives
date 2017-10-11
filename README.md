@@ -50,3 +50,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### CloudWatch - statistics storage
 
 * [Graphite](https://graphiteapp.org) - Used in Uber and [Etsy](http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/).
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Roman Pushkin](https://github.com/ro31337) has waived all copyright and related or neighboring rights to this work.
