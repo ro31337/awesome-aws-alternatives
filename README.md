@@ -51,6 +51,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Graphite](https://graphiteapp.org) - Used in Uber and [Etsy](http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/).
 
+## Search Engines
+
+* [PaaSfinder](https://paasfinder.org/) - Allows for selecting a PaaS service provider based on requirements.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
