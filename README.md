@@ -10,40 +10,40 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### EC2 - Amazon Virtual Servers
 
-* [Hetzner - Dedicated and Virtual servers](https://hetzner.de)
-* [DigitalOcean - Virtual Servers, Block storage, Load balancing and Firewalls](https://digitalocean.com)
-* [Contabo - Servers, VPS](https://contabo.com) (found [here](http://www.yegor256.com/2017/07/25/my-favorite-websites.html))
-* [VPS: 1 euro/month for 1GB RAM, 20GB storage, 2TB data transfer](https://www.arubacloud.com/vps/virtual-private-server-range.aspx)
+* [Hetzner](https://hetzner.de) - Dedicated and Virtual servers. Well-known company for providing dedicated and virtual services.
+* [DigitalOcean](https://digitalocean.com) - Virtual Servers, Block storage, Load balancing and Firewalls. Another well-known company that provides dedicated and virtual servers.
+* [Contabo](https://contabo.com) - Servers and VPS (found [here](http://www.yegor256.com/2017/07/25/my-favorite-websites.html)).
+* [ArubaCloud](https://www.arubacloud.com/vps/virtual-private-server-range.aspx) - VPS: 1 euro/month for 1GB RAM, 20GB storage, 2TB data transfer.
 
 ### S3 - Unlimited Storage
 
-* [Backblaze B2 storage - Cheapest block storage](https://www.backblaze.com/b2/cloud-storage.html)
-* [Scalable Object Storage on DigitalOcean](https://blog.digitalocean.com/introducing-spaces-object-storage/) with [AWS S3 compatibility](https://developers.digitalocean.com/documentation/spaces/#introduction)
+* [Backblaze B2 storage](https://www.backblaze.com/b2/cloud-storage.html) - inexpensive cloud storage, they claim to will cost you ¼ the Price.
+* [Scalable Object Storage on DigitalOcean](https://blog.digitalocean.com/introducing-spaces-object-storage/) - object storage from DigitalOcean with [AWS S3 compatibility](https://developers.digitalocean.com/documentation/spaces/#introduction).
 
 ## Web Developer Services
 
 ### CodeDeploy - Deployment and testing
 
-* [CodeShip](https://codeship.com) - Automated unit testing and deployment
+* [CodeShip](https://codeship.com) - Automated unit testing and deployment.
 
 ### Route53 - DNS and Domains
 
-* [Moniker](https://www.moniker.com/) - Domain Management & Domain Services
+* [Moniker](https://www.moniker.com/) - Domain Management & Domain Services.
 
 
 ### SES Simple Email Service 
 
-* [Mailgun](https://www.mailgun.com/) - E-mail relay and delivery/open tracking
-* [Postmark](https://postmarkapp.com/) - E-mail relay and delivery/open tracking
-* [SendGrid](https://sendgrid.com/) - E-mail delivery/open tracking
+* [Mailgun](https://www.mailgun.com/) - E-mail relay and delivery/open tracking.
+* [Postmark](https://postmarkapp.com/) - E-mail relay and delivery/open tracking.
+* [SendGrid](https://sendgrid.com/) - E-mail delivery/open tracking.
 
 
 ## Enterprise / Corporate Services
 
 ### WorkMail
 
-* [Yandex.Connect](https://connect.yandex.com) - E-mail and online storage for your domain
-* [Zoho Mail](https://www.zoho.com/mail/) - Webmail for your domain, free up to 25 users
+* [Yandex.Connect](https://connect.yandex.com) - E-mail and online storage for your domain.
+* [Zoho Mail](https://www.zoho.com/mail/) - Webmail for your domain, free up to 25 users.
 
 ## AWS Management Services
 
